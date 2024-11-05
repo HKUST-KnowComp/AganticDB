@@ -1,6 +1,6 @@
 +++
 date = '2024-11-05T23:20:59+08:00'
-draft = true
+draft = false
 title = ''
 featured_image= 'images/image.jpeg'
 +++
