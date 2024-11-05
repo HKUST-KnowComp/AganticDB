@@ -1,8 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hkust-knowcomp.github.io/NGDB/'
 languageCode = 'en-us'
 title = 'Neural Graph Database'
 theme = 'ananke'
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true         
+      unsafe = true    
