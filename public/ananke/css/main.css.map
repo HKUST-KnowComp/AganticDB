@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/baijiaxin/Documents/NGDB",
+	"sourceRoot": "C:/Users/marco/NGDB",
 	"sources": [
 		"ananke/css/main.css"
 	],

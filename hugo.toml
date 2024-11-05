@@ -1,4 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Neural Graph Database'
 theme = 'ananke'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true         
