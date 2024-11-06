@@ -1,11 +1,15 @@
 +++
 date = '2024-11-05T23:20:59+08:00'
 draft = false
-title = ''
-featured_image= 'images/image.jpeg'
+title= "AganticDB: Building Smart Databases as Agents"
+featured_image = 'images/image.jpeg'
+site_logo = "images/image.jpeg"
 +++
 
-# Principle Investigators
+Welcome to our website with recent work in building the AgenticDB.
+
+
+## Principle Investigators
 
 <style>
     
@@ -24,7 +28,6 @@ featured_image= 'images/image.jpeg'
             height: 400px;
             object-fit: cover;
        
-
             
         }
         .info-card .content {
@@ -96,7 +99,8 @@ featured_image= 'images/image.jpeg'
 
 
 
-
 </div>
 
-# 
+
+
+
