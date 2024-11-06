@@ -12,10 +12,10 @@ Welcome to our website with recent work in building the AgenticDB.
 ## Principle Investigators
 
 <style>
-    
         .info-card {
-            width: 300px;
-            height: 575px;
+            width: 100%;
+            max-width: 300px;
+            height: auto;
             border: 1px solid #ccc;
             border-radius: 8px;
             overflow: hidden;
@@ -27,8 +27,6 @@ Welcome to our website with recent work in building the AgenticDB.
             width: 100%;
             height: 400px;
             object-fit: cover;
-       
-            
         }
         .info-card .content {
             padding: 16px;
@@ -42,23 +40,26 @@ Welcome to our website with recent work in building the AgenticDB.
             color: #555;
         }
         .card-container {
-            justify-content: center;
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 80px;
-            padding:50px;
-            width: 80%;
-            max-width: 1200px;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 10fr));
+            gap: 20px;
+            padding: 20px;
+            min-width: 600px;
+            max-width: 1400px;
+            padding: 0px;
             margin-left: auto;
             margin-right: auto;
-            transform: translateX(20px); /* Adjust the value to move right */
             
         }
-        
-</style>
+        @media (max-width: 600px) {
+            .info-card img {
+                height: 250px;
+            }
+        }
+    </style>
 
 
-     
+
 <div class="card-container">
 
 <div class="info-card">
@@ -96,10 +97,10 @@ Welcome to our website with recent work in building the AgenticDB.
         <div class="title">HKUST</div>
     </div>
 </div>
-
-
-
 </div>
+
+
+
 
 
 
