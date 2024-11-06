@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Neural Graph Database</title>
-    <link>https://hkust-knowcomp.github.io/NGDB/tags/</link>
-    <description>Recent content in Tags on Neural Graph Database</description>
+    <title>Tags on AganticDB: Building Smart Databases as Agents</title>
+    <link>http://localhost:1313/NGDB/tags/</link>
+    <description>Recent content in Tags on AganticDB: Building Smart Databases as Agents</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://hkust-knowcomp.github.io/NGDB/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/NGDB/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

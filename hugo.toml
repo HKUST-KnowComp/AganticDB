@@ -1,6 +1,6 @@
 baseURL = 'https://hkust-knowcomp.github.io/NGDB/'
 languageCode = 'en-us'
-title = 'Neural Graph Database'
+title = 'AganticDB: Building Smart Databases as Agents'
 theme = 'ananke'
 [markup]
   [markup.goldmark]
